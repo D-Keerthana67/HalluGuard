@@ -1,0 +1,6 @@
+[
+ {"input":"Paris is the capital of France.","expected":"SUPPORTED"},
+ {"input":"Paris is the capital of Germany.","expected":"CONTRADICTED"},
+ {"input":"The Pacific Ocean is the largest ocean on Earth.","expected":"SUPPORTED"},
+ {"input":"Python was created by James Gosling.","expected":"CONTRADICTED"}
+]
